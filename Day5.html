@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--#####Forms==use to collect user input-->
+    <!--Equal value use in input Id and label for -->
+    <!--we can use input and button tag to create submit button of whole form-->
+   
+    <!--First Form-->
+    <form>
+       <label for="email">Enter Email Id:</label>
+        <input type="text" id="email">
+
+        <br/>
+        <br />
+
+        <label for="password">Enter password:</label>
+        <input type="text" id="password">  <!--input tag always want type="text" and id(unique)-->
+
+        <br/>
+        <br/>
+
+        <!--Placeholder-->
+        <label for="course">Course name:</label>
+        <input type="text" id="course" placeholder="Enter currently pursuing course">
+
+        <br/>
+        <br/>
+
+        <input type="submit" value="Submit">
+
+        <br/>
+        <br/>
+
+        <button>Click Here</button>
+
+        <br/>
+        <br/>
+
+    </form>
+
+    <!--Second Form -->
+    <form>
+        <!--date-->
+        <label for="datepickers">choose date:</label>
+        <input type="date" id="datepickers">
+
+        <br/>
+        <br/>
+
+        <!--select-->
+        <label for="selector1">Choose your dish:</label>
+        <select name="Dishes" id="selector1">
+            <option value="maggi">Maggi</option>
+            <option value="kurkure">Kurkure</option>
+            <option value="coc">Coca-cola</option>
+        </select>
+
+        <br />
+        <br />
+
+        <textarea name="textarea1" id="textarea" cols="30" rows="10" placeholder="Enter text here...."></textarea>
+        
+        <!--fieldset-->
+        <fieldset>
+            <legend>HtML Dummy Form</legend>
+            <label for="selector1">Choose your dish:</label>
+            <select name="Dishes" id="selector1">
+                <option value="maggi">Maggi</option>
+                <option value="kurkure">Kurkure</option>
+                <option value="coc">Coca-cola</option>
+            </select>
+
+            <br />
+            <br />
+            
+            <label for="datepickers">choose date:</label>
+            <input type="date" id="datepickers">
+            
+        </fieldset>
+
+        <br />
+        <br />
+
+    </form>
+    
+    <!--Third form-->
+    <form>
+        <input>
+        <input type="text">
+        <!--both are same because input tag take text by default-->
+
+        <br />
+        <br />
+
+        <!--text-field-->
+        <label for="textfield1">Text-Field:</label>
+        <input type="text" name="textfield" id="textfield1">
+
+        <br />
+        <br />
+
+        <!--submit Button-->
+        <label for="submit1">Button:</label>
+        <input type="submit" id="submit1" value="subscribe">
+
+        <br />
+        <br />
+
+        <!--radio Button-->
+        <label for="radio1">Radio button1:</label>
+        <input type="radio" name="radio1" id="radio1" >
+
+        <br />
+        <br />
+
+        <label for="radio2">Radio button2:</label>
+        <input type="radio" name="radio2" id="radio2">
+
+        <br />
+        <br />
+
+        <!--checkbox-->
+        <label for="checkbox1">checkbox1:</label>
+        <input type="checkbox" name="checkbox1" id="checkbox1">
+
+        <br />
+        <br />
+
+        <!--choose file-->
+        <label for="fileselect1">Upload file:</label>
+        <input type="file" name="fileselect1" id="fileselect1">
+
+        <br />
+        <br />
+
+        <!--Image Button-->
+        <input type="image" name="image-button1" id="image1" alt="click here" src="data:image/png;base64,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" width="50px" height="50px">
+
+        <br />
+        <br />
+       
+        <!--password in dotted form-->
+        <label for="password">Enter password:</label>
+        <input type="password" id="password"> 
+
+        <!--Frequently asked question-->
+        <section>
+            <h2>Frequently asked questions</h2>
+
+            <details>                
+                <summary>
+                    Question 1:What is your name?
+                </summary>
+                <p>My name is Aastha</p>
+            </details>
+        </section>
+    </form>
+</body>
+</html>
