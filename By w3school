@@ -7,3 +7,5 @@ Editor-            Notepad.
 Basics-           Document, Heading, Paragraph, Links, Images, view HTML source code of any website.
 
 Element-          single, Nested, Empty, HTML is not case sensitive
+
+Attribute-        Provide additional information, Specified in start tag, style, <a>--href, <img>--src,alt,height,width, <html>--lang, <h1>,<p>--title
