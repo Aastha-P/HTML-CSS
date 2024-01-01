@@ -11,3 +11,8 @@ Element-          single, Nested, Empty, HTML is not case sensitive
 Attribute-        Provide additional information, Specified in start tag, style, <a>--href, <img>--src,alt,height,width, <html>--lang, <h1>,<p>--title
 
 Heading-          h1,h2,h3,h4,h5,h6
+
+Paragraph-        <p>, <hr>, <br>, <pre>
+
+Style(Attribute)-   background-color, color, font-family, font-size, text-align etc.
+
