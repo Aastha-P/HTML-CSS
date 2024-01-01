@@ -17,3 +17,5 @@ Paragraph-        <p>, <hr>, <br>, <pre>
 Style(Attribute)-   background-color, color, font-family, font-size, text-align etc.
 
 Formatting-         <b> = <strong>, <i> = <em>, <mark>(highlight), <small>, <del>, <ins>(underline), <sub>, <sup> etc.
+
+Quotation-         <blockquote>, <q>(" "), <abbr>, <address>, <cite>, <bdo>.
