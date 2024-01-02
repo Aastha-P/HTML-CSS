@@ -22,4 +22,27 @@ Quotation-         <blockquote>, <q>(" "), <abbr>, <address>, <cite>, <bdo>.
 
 Comments-          <!--comment-->(both single or multi-line comment).
 
-Colors-             RGB, HEX(#rrggbb), HSL, RGBA, HSLA.
+Colors-            RGB, HEX(#rrggbb), HSL, RGBA, HSLA.
+
+CSS-             3 ways:
+                        Inline - by using the style attribute inside HTML elements.(<h1 style="color:blue;">A Blue Heading</h1>)
+                        Internal - by using a <style> element in the <head> section.
+                                   <head>
+                                        <style>
+                                               body {background-color: powderblue;}
+                                               h1   {color: blue;}
+                                               p    {color: red;}
+                                         </style>
+                                   </head>
+                       External - by using a <link> element to link to an external CSS file.
+                              "styles.css":
+                                           body {
+                                                 background-color: powderblue;
+                                                }
+                                             h1 {
+                                                 color: blue;
+                                                }
+                                              p {
+                                                 color: red;
+                                                }
+                  Border, Padding, Margin.
