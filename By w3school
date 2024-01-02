@@ -19,3 +19,7 @@ Style(Attribute)-   background-color, color, font-family, font-size, text-align 
 Formatting-         <b> = <strong>, <i> = <em>, <mark>(highlight), <small>, <del>, <ins>(underline), <sub>, <sup> etc.
 
 Quotation-         <blockquote>, <q>(" "), <abbr>, <address>, <cite>, <bdo>.
+
+Comments-          <!--comment-->(both single or multi-line comment).
+
+Colors-             RGB, HEX(#rrggbb), HSL, RGBA, HSLA.
