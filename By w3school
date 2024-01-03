@@ -47,4 +47,6 @@ CSS-             3 ways:
                                                 }
                 Border, Padding, Margin.
 
-Links-         Hyperlinks, syntax
+Links-         Hyperlinks(<a>), target(self, blank, parent, top), URLs(Absolute, Relative), <a href="web link"><img src="pic"></a>, Email send, Button, Title(abbr), Link Color, Button Color, Link Bookmark.
+
+Images-        
