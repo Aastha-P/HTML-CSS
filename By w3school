@@ -58,4 +58,7 @@ Page title-    Syntax.
 Tables-        Syntax, td, tr, th, caption, colgroup, col, thead, tbody, tfoot.
 Table Border-  double border, single border, background color, round table border(Double or single), different border styles, border color.
 Table size-    width(Table or colomn), height(row).
-Table header-  
+Table header-  set header, align, for multiple column(colspan), caption.
+Padding & spacing-   padding(th,td), border spacing.
+Rowspan & Colspan-
+Table styling-  zebra stripes, Horizontal dividers, hover, colgroup(empty), Hide columns.
