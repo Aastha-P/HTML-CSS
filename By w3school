@@ -49,4 +49,4 @@ CSS-             3 ways:
 
 Links-         Hyperlinks(<a>), target(self, blank, parent, top), URLs(Absolute, Relative), <a href="web link"><img src="pic"></a>, Email send, Button, Title(abbr), Link Color, Button Color, Link Bookmark.
 
-Images-        
+Images-        Attributes(src, alt,height,width), Style, animated images, image as link(<a><img></a>), float(style), Image formate, Image Map, Background image, Picture element
