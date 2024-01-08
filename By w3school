@@ -62,3 +62,11 @@ Table header-  set header, align, for multiple column(colspan), caption.
 Padding & spacing-   padding(th,td), border spacing.
 Rowspan & Colspan-
 Table styling-  zebra stripes, Horizontal dividers, hover, colgroup(empty), Hide columns.
+Table Colgroup-  syntax, CSS,  Hide columns.
+
+Lists-          unordered(ul),  ordered(ol), Description(dl>dt>dd).
+unordered lists-  nested list, Horizontal List with CSS(float:left)
+ordered lists-    The Type Attribute(1,A,a,I,i), Control List Counting(<ol start="50">), Nested Lists.
+Description Lists-  syntax.
+
+Block & Inline-   
