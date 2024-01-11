@@ -71,4 +71,6 @@ unordered lists-  nested list, Horizontal List with CSS(float:left)
 ordered lists-    The Type Attribute(1,A,a,I,i), Control List Counting(<ol start="50">), Nested Lists.
 Description Lists-  syntax.
 
-Block & Inline-   
+Block & Inline-   Block-level Elements(always starts on a new line)(<p>,<div>,etc), Inline Elements( not start on a new line)(<span>,etc)
+
+                                An inline element cannot contain a block-level element!
