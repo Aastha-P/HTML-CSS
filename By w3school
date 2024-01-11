@@ -86,3 +86,34 @@ iframe-           used to display a web page within a web page, Syntax, style,he
 JavaScript-       Defines a client-side script, Program to display date and time, <script> Tag(Hello program), JavaScript can change styles, JavaScript can change attributes(Program to on off bulb), noscript.
 
 File Path-        Paths to insert a image, Absolute File Paths(complete url), Relative File Paths(folder location).
+
+Head-             container for metadata( data about the HTML document)(Metadata is not displayed), placed between the <html> tag and the <body> tag, Title, Style, Link, meta, viewport, <script> Element, <base> Element.
+
+Layout-           Layout Elements(<header>,<nav>,<section>,<article>,<aside>,<footer>,<details>,<summary>), Layout Techniques(CSS framework(W3.CSS or Bootstrap),CSS float property,CSS flexbox,CSS grid).
+
+Responsive-       Responsive Web Design?, Setting The Viewport, Responsive Images(max-width property) etc.
+
+Computer Code-    <code>, <kbd>, <samp>, <var>.
+
+Semantics-        non-semantic(div,span) or semantic elements(form,table), section, article, header, footer, nav, aside, <figure> and <figcaption>.
+
+Style Guide-      Here is a guide to write perfect html document like-Always Declare Document Type, Omitting <html> and <body>?, Omitting <head>?.
+
+Entities-         Character Entities(<,>,&,",etc), Combining Diacritical Marks(`,~,etc).
+
+Symbols-          Symbol Entities(€,∀,©,etc).
+
+Emoji-           Emojis, charset Attribute, UTF-8 Characters(&#65; &#66; &#67), Emoji Characters(😄 is 128516,😍 is 128525).
+
+charset-         The ASCII Character Set, The ANSI Character Set, The UTF-8 Character Set, Differences Between Character Sets.
+
+URL Encode-      Common URL Schemes, URL Encoding, ASCII Encoding Examples.
+
+HTML / XHTML-    Most Important Differences from HTML, Synatx.
+
+
+
+
+Forms-             <form>, <input>(type attribute), Text Fields, <label>, Radio Buttons, Checkboxes, Submit Button(action attribute), Name Attribute for <input>.
+
+Form Attributes-  
