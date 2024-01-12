@@ -129,4 +129,13 @@ Input form Attributes-  form(id(same)), formaction(submit,image), formenctype, f
 
 
 HTML Graphics-
-Canvas-             
+Canvas-            Definition, Examples and Syntax.
+
+SVG-               Definition, Examples.
+
+Media-
+Multimedia-       Definition, Browser Support, Multimedia Formats.
+Video-            Example, work(controls,width and height,autoplay,muted), Browser Support, Video Formats, Media Types, Methods,Properties,and Events(DOM), Video Tags.
+Audio-            Example, work, Browser Support, Audio Formats, Audio - Media Types, Methods,Properties,and Events(DOM), Audio Tags.
+Plug-ins-         Definition, purpose, <object>, <embed>(no closing tag).
+YouTube-          Struggling with Video Formats?, YouTube Video Id, Playing a YouTube Video in HTML, Autoplay + Mute, YouTube Playlist, Loop, Controls.
