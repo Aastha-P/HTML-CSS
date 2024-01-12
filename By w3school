@@ -120,4 +120,4 @@ Form Attributes-    Action Attribute,  Target Attribute(_blank,self,_parent,_top
 
 <Form>Elements-     <input>,<label>,<select>(Visible Values(size="3"))(Allow Multiple Selections(multiple)),<textarea>,<button>,<fieldset>,<legend>,<datalist>,<output>,<option>(pre-selected option-selected attribute),<optgroup>.
 
-Input Types-        Input Type Reset, <input type="color">
+Input Types-        <input type="Reset">, color,  date(min,max), datetime-local, image, file, hidden, month, Number,Input Restrictions, Range, search, Tel(pattern), Time, Url, week.
