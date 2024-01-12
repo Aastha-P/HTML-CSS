@@ -116,4 +116,8 @@ HTML / XHTML-    Most Important Differences from HTML, Synatx.
 
 Forms-             <form>, <input>(type attribute), Text Fields, <label>, Radio Buttons, Checkboxes, Submit Button(action attribute), Name Attribute for <input>.
 
-Form Attributes-  
+Form Attributes-    Action Attribute,  Target Attribute(_blank,self,_parent,_top,framename), Method Attribute,  Autocomplete Attribute, Novalidate Attribute,
+
+<Form>Elements-     <input>,<label>,<select>(Visible Values(size="3"))(Allow Multiple Selections(multiple)),<textarea>,<button>,<fieldset>,<legend>,<datalist>,<output>,<option>(pre-selected option-selected attribute),<optgroup>.
+
+Input Types-        Input Type Reset, <input type="color">
