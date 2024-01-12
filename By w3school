@@ -124,4 +124,9 @@ Input Types-        <input type="Reset">, color,  date(min,max), datetime-local,
 
 Input Attributes-    value, readonly, disabled,  size, maxlength, min, max, multiple, pattern, placeholder, required, step, autofocus, height and width, list, autocomplete.
 
-Input form Attributes-  
+Input form Attributes-  form(id(same)), formaction(submit,image), formenctype, formmethod(get,post), formtarget, formnovalidate, novalidate(in<form>).
+
+
+
+HTML Graphics-
+Canvas-             
