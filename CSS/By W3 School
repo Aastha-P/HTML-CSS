@@ -11,4 +11,6 @@ How To Add CSS-  ways(External CSS,Internal CSS,Inline CSS), Multiple Style Shee
 Comments-        Type(single-line,multi-line)(/* Set */).
 Colors-          Color- Names, Background Color, Text Color, Border Color, Color Values.
                  RGB-   RGB Value-rgb(red, green, blue),rgba(red, green, blue, alpha), alpha value(0-1).
-                 HEX -  HEX Value-#rrggbb
+                 HEX -  HEX Value-#rrggbb(Black color-#000000,white color-#ffffff),#rgb(pink-#f0f).
+                 HSL-   HSL Value-hsl(hue, saturation, lightness)example-hsl(0, 100%, 50%), hsla(hue, saturation, lightness, alpha), alpha(0.0-1.0).
+Backgrounds-     
