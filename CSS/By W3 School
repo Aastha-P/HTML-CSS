@@ -1,1 +1,14 @@
-CSS
+Start-
+      Highest priority of styling-Inline style (inside an HTML element)
+                                  External and internal style sheets (in the head section)
+                                  Browser default or External CSS
+
+Home
+IntroDuction-    Intro, Multiple Style sheets, use.
+Syntax
+Selectors-       Types(Simple,Combinator,Pseudo-class,Pseudo-elements,Attribute), Selector(element,id(#),class(.),Universal(*),Grouping(h1, h2, p{}).
+How To Add CSS-  ways(External CSS,Internal CSS,Inline CSS), Multiple Style Sheets.
+Comments-        Type(single-line,multi-line)(/* Set */).
+Colors-          Color- Names, Background Color, Text Color, Border Color, Color Values.
+                 RGB-   RGB Value-rgb(red, green, blue),rgba(red, green, blue, alpha), alpha value(0-1).
+                 HEX -  HEX Value-#rrggbb
