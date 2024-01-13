@@ -3,6 +3,8 @@ Start-
                                   External and internal style sheets (in the head section)
                                   Browser default or External CSS
 
+      div.first {  } as we erite.
+
 Home
 IntroDuction-    Intro, Multiple Style sheets, use.
 Syntax
@@ -13,4 +15,6 @@ Colors-          Color- Names, Background Color, Text Color, Border Color, Color
                  RGB-   RGB Value-rgb(red, green, blue),rgba(red, green, blue, alpha), alpha value(0-1).
                  HEX -  HEX Value-#rrggbb(Black color-#000000,white color-#ffffff),#rgb(pink-#f0f).
                  HSL-   HSL Value-hsl(hue, saturation, lightness)example-hsl(0, 100%, 50%), hsla(hue, saturation, lightness, alpha), alpha(0.0-1.0).
-Backgrounds-     
+Backgrounds-     color=background-color,background-image,background-repeat,background-attachment,background-position,background, Opacity(Transparency), Transparency using RGBA
+                 Image=In body, In elements.
+                 
