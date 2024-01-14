@@ -17,4 +17,5 @@ Colors-          Color- Names, Background Color, Text Color, Border Color, Color
                  HSL-   HSL Value-hsl(hue, saturation, lightness)example-hsl(0, 100%, 50%), hsla(hue, saturation, lightness, alpha), alpha(0.0-1.0).
 Backgrounds-     color=background-color,background-image,background-repeat,background-attachment,background-position,background, Opacity(Transparency), Transparency using RGBA
                  Image=In body, In elements.
+                 Repeat=
                  
