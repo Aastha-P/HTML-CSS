@@ -7,15 +7,48 @@ Start-
 
 Home
 IntroDuction-    Intro, Multiple Style sheets, use.
+
 Syntax
+
 Selectors-       Types(Simple,Combinator,Pseudo-class,Pseudo-elements,Attribute), Selector(element,id(#),class(.),Universal(*),Grouping(h1, h2, p{}).
+
 How To Add CSS-  ways(External CSS,Internal CSS,Inline CSS), Multiple Style Sheets.
+
 Comments-        Type(single-line,multi-line)(/* Set */).
+
 Colors-          Color- Names, Background Color, Text Color, Border Color, Color Values.
                  RGB-   RGB Value-rgb(red, green, blue),rgba(red, green, blue, alpha), alpha value(0-1).
                  HEX -  HEX Value-#rrggbb(Black color-#000000,white color-#ffffff),#rgb(pink-#f0f).
                  HSL-   HSL Value-hsl(hue, saturation, lightness)example-hsl(0, 100%, 50%), hsla(hue, saturation, lightness, alpha), alpha(0.0-1.0).
-Backgrounds-     color=background-color,background-image,background-repeat,background-attachment,background-position,background, Opacity(Transparency), Transparency using RGBA
-                 Image=In body, In elements.
-                 Repeat=
+
+Backgrounds-     color=
+                 background-color,background-image,background-repeat,background-attachment,background-position,background, Opacity(Transparency), Transparency using RGBA
                  
+                 Image=
+                 In body, In elements.
+                 
+                 Repeat=
+                 If the image above is repeated only horizontally(background-repeat: repeat-x;).
+                 To repeat an image vertically, set(background-repeat: repeat-y;).
+                 no repeatation, set(background-repeat: no-repeat;).
+                 CSS background-position, set(background-position: right top;)
+
+                 Background Attachment =
+                 specifies whether the background image should scroll or be fixed.
+                  background-attachment: fixed;     background-attachment: scroll;
+
+                 Background Shorthand=
+                 To specify all the background properties in one single property.
+                 background: #ffffff url("img_tree.png") no-repeat right top;      
+                 shorthand property the order of the property value(background-color,background-image,background-repeat,background-attachment,background-position));
+
+Borders-
+
+            
+
+
+
+
+
+
+
