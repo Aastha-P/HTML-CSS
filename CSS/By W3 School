@@ -2,8 +2,9 @@ Start-
       Highest priority of styling-Inline style (inside an HTML element)
                                   External and internal style sheets (in the head section)
                                   Browser default or External CSS
-
+      In CSS to Style-
       div.first {  } as we write.(<div class="fiirst">This div is 300px wide.</div>)
+      p.dotted {  }(<p class="dotted">A dotted outline</p>)
 
      properties can have the following values:
                                    length - specifies a padding in px, pt, cm, etc.
@@ -135,9 +136,76 @@ Box Model-
               Width and Height of an Element.
 
 Outline-
-         Outline=
-          
+          Outline =
+          a line drawn outside the element's border.
+          outline properties: outline-style, outline-color, outline-width, outline-offset, outline.
+          CSS Outline Style: dotted, dashed, solid, double, groove, ridge, inset, outset, none, hidden.
 
+          Outline Width =
+          specifies the width of the outline.
+          values[thin (typically 1px), medium (typically 3px), thick (typically 5px), A specific size (in px,pt,cm,em,etc)]          
+
+          Outline Color =
+          used to set the color of the outline (outline-color: red;).
+
+          Outline Shorthand =
+           for setting the following individual outline properties: outline-width, outline-style (required), outline-color.
+                       (outline: 5px solid yellow;)
+
+          Outline Offset =
+          adds space between an outline and the edge/border of an element (outline-offset: 15px;).
+
+Text-
+        Text Color =
+        used to set the color of the text (color: blue;).
+        Background Color (background-color: blue;).
+
+        Text Alignment =
+        (center,left,right,justify) 
+        properties: 
+                 text-align(text-align: center;)
+                 text-align-last (use to align last word of element)
+                 direction (use to change the direction of an element)
+                 unicode-bidi(used to change the text direction of an element)
+                 vertical-align- sets the vertical alignment of an element (baseline, text-top, text-bottom, sub, super)
+
+         Text Decoration =
+          properties: text-decoration-line, text-decoration-color, text-decoration-style, text-decoration-thickness, text-decoration.
+          Add a Decoration Line to Text: overline, line-through, underline, overline underline.
+          Specify a Color for the Decoration Line: (used to set the color of the decoration line) 
+                      (text-decoration-line: overline underline;
+                       text-decoration-color: purple;)
+          Style for the Decoration Line: 
+                               (text-decoration-line: underline;
+                                text-decoration-style: double;)          
+          Thickness for the Decoration Line: (text-decoration-thickness: 5px;)
+          Shorthand Property: text-decoration-line (required)
+                              text-decoration-color (optional)
+                              text-decoration-style (optional)
+                              text-decoration-thickness (optional)
+           Small Tip: (text-decoration: none;)-- is used to remove the underline from links
+
+           Text Transformation =
+            used to specify uppercase and lowercase letters in a text or capitalize the first letter of each word.
+            uppercase, lowercase, capitalize(text-transform: uppercase;)
+
+            Text Spacing =
+            properties: text: indent, letter-spacing, line-height, word-spacing, white-space.
+            Text Indentation: text-indent property is used to specify the indentation of the first line of a text.
+            Letter Spacing: specify the space between the characters in a text (letter-spacing: -2px;).
+            Line Height: used to specify the space between lines (line-height: 0.8;).
+            Word Spacing: specify the space between the words in a text (word-spacing: 10px;).
+            White Space: specifies how white-space inside an element is handled (white-space: nowrap;).
+
+            Text Shadow =
+            adds shadow to text (text-shadow: 2px 2px;).
+            color (text-shadow: 2px 2px red;).
+            Text shadow effect (text-shadow: 2px 2px 5px red).
+
+Fonts-
+      font-family =
+       
+ 
 
 
 
