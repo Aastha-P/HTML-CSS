@@ -204,8 +204,41 @@ Text-
 
 Fonts-
       font-family =
-       
- 
+      Generic Font Families--Serif, Sans-serif, Monospace, Cursive, Fantasy, etc.
+      All the different font names belong to one of the generic font families. 
+      Font Examples
+      CSS font-family Property (font-family: "Times New Roman", Times, serif;).
+
+      Font Web Safe =
+      are universally installed across all browsers and devices.
+      Fallback Fonts-- 
+             There is always a chance that a font is not found or is not installed properly
+             Example-- there are three font types: Tahoma, Verdana, and sans-serif. The second and third fonts are backups, in case the first one is not found.
+                  font-family: Tahoma, Verdana, sans-serif;
+       Best Web Safe Fonts for HTML and CSS--Arial (sans-serif),Verdana (sans-serif),Tahoma (sans-serif),Trebuchet MS (sans-serif),Times New Roman (serif),etc.
+        
+       Font Fallbacks =
+       Commonly Used Font Fallbacks (Serif, Sans-serif, Monospace, Cursive, Fantasy) 
+
+       Font Style = 
+       font-style-- values: normal, italic, oblique. (font-style: normal;)
+       Font Weight--(font-weight: normal;) (font-weight: bold) 
+       Font Variant-- lowercase letters are converted to uppercase letters. However, the converted uppercase letters appears in a smaller font size than the original uppercase letters
+                        (font-variant: small-caps;) 
+
+       Font Size =
+       HTML tags--like <h1> - <h6> for headings and <p>
+       (16px=1em) ( 1vw=0.5cm) (1vw = 1%)
+
+        Google Fonts =
+        have more than 1000 fonts to choose.
+        How To Use Google Fonts, Use Multiple Google Fonts, Styling Google Fonts, Enabling Font Effects.
+
+        Font Pairings =
+          
+
+
+
 
 
 
