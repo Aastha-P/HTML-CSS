@@ -235,6 +235,30 @@ Fonts-
         How To Use Google Fonts, Use Multiple Google Fonts, Styling Google Fonts, Enabling Font Effects.
 
         Font Pairings =
+        Font Pairing Rules.
+
+        Font Shorthand =
+        The CSS Font Property--font-style, font-variant, font-weight, font-size/line-height, font-family.
+                                (font: italic small-caps bold 12px/30px Georgia, serif;)
+
+Icons-
+         How To Add Icons (By using icon library, such as Font Awesome)
+         Font Awesome Icons (fontawesome.com)
+         Bootstrap Icons--use the Bootstrap glyphicons
+         Google Icons
+
+Links-
+       Styling Links--(a{color: hotpink;})
+       four links states are--a:link(unvisited link), a:visited(user has visited), a:hover(when the user mouses over it), a:active(moment it is clicked).
+                                  (a:active {color: blue;})
+        Text Decoration-- underline, none. (a:active {text-decoration: underline;})
+        Background Color-- (a:hover {background-color: lightgreen;})
+        Link Buttons-- combine several CSS properties to display links as boxes/buttons
+        More Examples--Mouse over the words to change the cursor style.
+
+
+
+
           
 
 
