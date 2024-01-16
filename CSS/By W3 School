@@ -3,9 +3,16 @@ Start-
                                   External and internal style sheets (in the head section)
                                   Browser default or External CSS
 
-      div.first {  } as we erite.
+      div.first {  } as we write.(<div class="fiirst">This div is 300px wide.</div>)
 
-Home
+     properties can have the following values:
+                                   length - specifies a padding in px, pt, cm, etc.
+                                   % - specifies a property(like-padding) in % of the width of the containing element
+                                   inherit - specifies that the property should be inherited from the parent element
+
+
+Home---------
+
 IntroDuction-    Intro, Multiple Style sheets, use.
 
 Syntax
@@ -81,8 +88,55 @@ Margins-
 
           shorthand Property =
                     (margin: 25px 50px 75px 100px;)
-            
+           auto -- to horizontally center the element within its container(margin: auto;).
+           Inherit--margin of the element(<p class="ex1">) be inherited from the parent element (<div>):
+                            div {
+                                   border: 1px solid red;
+                                     margin-left: 100px;
+                                }
+                            p.ex{
+                                  margin-left: inherit;
+                                 }
 
+                          <body>
+                                <div>
+                                    <p class="ex1">This paragraph has an inherited left margin (from the div element).</p>
+                                </div>
+                           </body>
+
+            Margin Collapse =
+            Top and bottom margins of elements are sometimes collapsed into a single margin that is equal to the largest of the two margins.
+            This does not happen on left and right margins! Only top and bottom margins!
+
+Padding-
+         used to create space around an element's content, inside of any defined borders.
+         Padding for Individual Sides--
+                                     padding-top, padding-right, padding-bottom, padding-left.
+         Padding Shorthand Property-(padding: 25px 50px 75px 100px;)
+         Padding and Element Width- if an element has a specified width, the padding added to that element will be added to the total width of the element.
+                              no matter the amount of padding, you can use the box-sizing property. This causes the element to maintain its actual width; if you increase the padding, the available content space will decrease.
+                                    (box-sizing: border-box;)
+
+Height, Width-
+               height and width Values- auto, length, %, initial, inherit.
+               Examples.
+               Setting max-width
+
+
+Box Model-
+           used when talking about design and layout.
+           It consists of: content, padding, borders and margins.
+              div {
+                   width: 300px;
+                   border: 15px solid green;
+                   padding: 50px;
+                   margin: 20px;
+                  }
+              Width and Height of an Element.
+
+Outline-
+         Outline=
+          
 
 
 
